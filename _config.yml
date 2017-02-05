@@ -89,7 +89,7 @@ JB :
   comments : true
     provider : disqus
     disqus :
-      short_name : personlin
+      short_name : personlin-com
     livefyre :
       site_id : 123
     intensedebate :
